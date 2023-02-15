@@ -1,5 +1,5 @@
 <p align="center" > 
-  <img src="https://media.tenor.com/h3eg3B_0LbgAAAAC/catbus-totoro.gif">
+  <img src="https://image.myanimelist.net/ui/BQM6jEZ-UJLgGUuvrNkYUFgM0p5K6Bj2NmuD8_9ZFClkuWTWgtNXg54TlHXGZjLxbbsm2D1fx4TZH9pSWxfMfA">
 </p>
 
 <h1 align="center">Hi 👋, I'm klfl1012</h1>
