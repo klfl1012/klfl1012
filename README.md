@@ -4,6 +4,7 @@ I’m a **Human-Centered AI MSc student** at the Technical University of Denmark
 
 I’m passionate about Machine Learning & Deep Learning, focusing on quantitative applications such as time series forecasting and dynamic system modeling.
 
+What I used so far in academic or personal projects:
 ---
 ![Python](https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-EA0F0F?style=flat&logo=pytorch&logoColor=white)
