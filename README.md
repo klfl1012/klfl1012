@@ -1,4 +1,4 @@
-# Hi there, I'm Klein
+# Hi there,
 
 I’m a **Human-Centered AI MSc student** at the Technical University of Denmark (DTU), originally from Germany.  
 
